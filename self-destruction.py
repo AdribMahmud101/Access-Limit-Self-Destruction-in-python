@@ -39,7 +39,7 @@ while tries>0:
 
         print('\nLogin Failed')
 
-        print(f'You have {tries} tries left, Database and server has been transferred to secure server. Good Bye...')
+        print(f'You have {tries} tries left, Backup files have been transferred to secure server. Good Bye...')
 
 
         print('\n \n Self-destruction mode activated , App will be destroyed in 5 sec')
